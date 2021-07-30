@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">3205_test_task</string>
+    <string name="searchViewHint">Search for GitHub Repo</string>
+    <string name="splashActivityText">Welcome to GitHub Client</string>
+    <string name="downloadGitRepoText">DOWNLOAD ZIP</string>
+    <string name="downloadsButtonText">DOWNLOADS</string>
+</resources>
